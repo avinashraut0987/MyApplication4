@@ -1,5 +1,7 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">My Application</string>
     <string name="pause">pause</string>
     <string name="play">play</string>
+    <string name="dropping.json" tools:ignore="ExtraTranslation"></string>
+
 </resources>
